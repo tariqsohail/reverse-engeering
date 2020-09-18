@@ -1,0 +1,25 @@
+{
+  "name": "reverse-engeering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tariqsohail/reverse-engeering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tariqsohail/reverse-engeering/issues"
+  },
+  "homepage": "https://github.com/tariqsohail/reverse-engeering#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "modules": "^0.4.0",
+    "mongoose": "^5.10.5"
+  }
+}
